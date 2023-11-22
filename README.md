@@ -6,9 +6,8 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 
 ### Languages
 [<img src="https://img.shields.io/badge/Shell-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />](https://www.gnu.org/software/bash)
-[<img src="https://img.shields.io/badge/Python?logo=python" alt="Bash logo" title="Python" height="25" />](https://www.gnu.org/software/bash)
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Bash logo" title="Python" height="25" />](https://www.gnu.org/software/bash)
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />](https://www.javascript.com)
-[<img src="https://img.shields.io/badge/logo=python" alt="Java logo" title="Python" height="25" />](https://www.oracle.com/java)
 
 ### Cloud Platforms
 [<img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />](https://cloud.google.com)
