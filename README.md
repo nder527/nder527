@@ -26,6 +26,9 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 
 ### Harness
 [<img src="https://img.shields.io/badge/Terminal-282C34?logo=windowsterminal" alt="Terminal logo" title="Terminal" height="25" />](https://en.wikipedia.org/wiki/Terminal_emulator)
+<!--
+can modify somewhat - add intellij/iterm2/zsh whatever... Also, can add DBs/GithubActions and the like
+-->
 
 ### Where to find me
 [<img src="https://img.shields.io/badge/GitHub-282C34?logo=github" alt="GitHub logo" title="GitHub" height="25" />](https://github.com/nder527)
