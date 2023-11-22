@@ -5,8 +5,9 @@ I am a full-stack developer.
 I like to learn from interesting people and projects. Feel free to reach out to me!
 
 ### Languages
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />](https://www.javascript.com)
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="TypeScript logo" title="TypeScript" height="25" />](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />](https://www.javascript.com)
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java" alt="Java logo" title="Java" height="25" />](https://www.oracle.com/java)
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Shell-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />](https://www.gnu.org/software/bash)
 
