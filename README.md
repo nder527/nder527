@@ -11,6 +11,14 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Shell-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />](https://www.gnu.org/software/bash)
 
+### Web and mobile
+[<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25" />](https://react.dev/)
+[<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React Native logo" title="React Native" height="25" />](https://reactnative.dev/)
+[<img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot" alt="Spring Boot logo" title="Spring Boot" height="25" />](https://spring.io/)
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux" alt="Redux logo" title="Redux" height="25" />](https://redux.js.org/)
+[<img src="https://img.shields.io/badge/React%20Router-282C34?logo=reactrouter" alt="React Router logo" title="React Router" height="25" />](https://reactrouter.com/en/main)
+[<img src="https://img.shields.io/badge/MUI-282C34?logo=mui" alt="MUI logo" title="Material UI" height="25" />](https://mui.com/)
+
 ### Cloud Platforms
 [<img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />](https://cloud.google.com)
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws" alt="AWS logo" title="AWS" height="25" />](https://aws.amazon.com)
