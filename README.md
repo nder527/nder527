@@ -29,29 +29,6 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 <!--
 can modify somewhat - add intellij/iterm2/zsh whatever... Also, can add DBs/GithubActions and the like
 -->
-<pre>
-Fight Bugs                      |     |
-                                \\_V_//
-                           I==  \/=|=\/
-                                 [=v=]
-                               __\___/_____
-                              /..[  _____  ]
-                             /_  [ [  M /] ]
-                            /../.[ [ M /@] ]
-                           <-->[_[ [M /@/] ]
-                          /../ [.[ [ /@/ ] ]
-     _________________]\ /__/  [_[ [/@/ C] ]
-    <_________________>>0---]  [=\ \@/ C / /
-       ___      ___   ]/000o   /__\ \ C / /
-          \    /              /....\ \_/ /
-       ....\||/....           [___/=\___/
-      .    .  .    .          [...] [...]
-     .      ..      .         [___/ \___]
-     .    0 .. 0    .         <---> <--->
-  /\/\.    .  .    ./\/\      [..]   [..]
- / / / .../|  |\... \ \ \    _[__]   [__]_
-/ / /       \/       \ \ \  [____>   <____]
-</pre>
 
 ### Where to find me
 [<img src="https://img.shields.io/badge/GitHub-282C34?logo=github" alt="GitHub logo" title="GitHub" height="25" />](https://github.com/nder527)
