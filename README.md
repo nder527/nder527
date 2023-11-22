@@ -5,9 +5,10 @@ I am a full-stack developer.
 I like to learn from interesting people and projects. Feel free to reach out to me!
 
 ### Languages
-[<img src="https://img.shields.io/badge/Shell-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />](https://www.gnu.org/software/bash)
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />]
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />](https://www.javascript.com)
+[<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript" alt="JavaScript logo" title="JavaScript" height="25" />](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />](https://www.python.org/)
+[<img src="https://img.shields.io/badge/Shell-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />](https://www.gnu.org/software/bash)
 
 ### Cloud Platforms
 [<img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />](https://cloud.google.com)
