@@ -22,6 +22,7 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 ### Other technologies
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws" alt="AWS logo" title="AWS" height="25" />](https://aws.amazon.com)
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" />](https://www.linux.org/)
 
 ### Harness
 [<img src="https://img.shields.io/badge/Terminal-282C34?logo=windowsterminal" alt="Terminal logo" title="Terminal" height="25" />](https://en.wikipedia.org/wiki/Terminal_emulator)
