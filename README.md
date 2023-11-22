@@ -13,7 +13,7 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 
 ### Web and mobile
 [<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25" />](https://react.dev/)
-[<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React Native logo" title="React Native" height="25" />](https://reactnative.dev/)
+[<img src="https://img.shields.io/badge/React%20Native-282C34?logo=reactnative" alt="React Native logo" title="React Native" height="25" />](https://reactnative.dev/)
 [<img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=springboot" alt="Spring Boot logo" title="Spring Boot" height="25" />](https://spring.io/)
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux" alt="Redux logo" title="Redux" height="25" />](https://redux.js.org/)
 [<img src="https://img.shields.io/badge/React%20Router-282C34?logo=reactrouter" alt="React Router logo" title="React Router" height="25" />](https://reactrouter.com/en/main)
