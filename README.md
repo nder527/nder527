@@ -1,6 +1,6 @@
 ## Hello, I am Nik 👋
 
-I am a full-stack developer.
+I am a full-stack developer. I’m currently working on deepening my expertise in front-end web development. More specifically, I'm interested in building React component libraries that implement design systems.
 
 I like to learn from interesting people and projects. Feel free to reach out to me!
 
@@ -19,9 +19,9 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 [<img src="https://img.shields.io/badge/React%20Router-282C34?logo=reactrouter" alt="React Router logo" title="React Router" height="25" />](https://reactrouter.com/en/main)
 [<img src="https://img.shields.io/badge/MUI-282C34?logo=mui" alt="MUI logo" title="Material UI" height="25" />](https://mui.com/)
 
-### Cloud Platforms
-[<img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />](https://cloud.google.com)
+### Other technologies
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws" alt="AWS logo" title="AWS" height="25" />](https://aws.amazon.com)
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />](https://www.docker.com/)
 
 ### Harness
 [<img src="https://img.shields.io/badge/Terminal-282C34?logo=windowsterminal" alt="Terminal logo" title="Terminal" height="25" />](https://en.wikipedia.org/wiki/Terminal_emulator)
