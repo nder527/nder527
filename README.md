@@ -1,8 +1,6 @@
 ## Hello, I am Nik 👋
 
-I am a full-stack developer. I’m currently working on deepening my expertise in front-end web development. More specifically, I'm interested in building React component libraries that implement design systems.
-
-I like to learn from interesting people and projects. Feel free to reach out to me!
+I am a full-stack developer.
 
 ### Languages
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="TypeScript logo" title="TypeScript" height="25" />](https://www.typescriptlang.org/)
