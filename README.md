@@ -2,7 +2,7 @@
 
 I'm a Java back-end developer with a passion for *performance engineering*.
 
-Some of the subjects that I'm interested in are:
+Some of the subjects I'm interested in are:
 * JVM internals
 * Tooling (e.g. async-profiler, JITWatch, JMH, JOL)
 * Linux kernel tuning
